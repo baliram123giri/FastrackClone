@@ -1,0 +1,12 @@
+export const LOGIN_USER = "LOGIN_USER"
+export const USER_SIGNUP = "USER_SIGNUP"
+export const LOGOUT = "LOGOUT"
+export const ERROR = "ERROR"
+export const SUCCESS = "SUCCESS"
+export const LOADER = "LOADER"
+export const PRODUCTS_HOMEPAGE = "PRODUCTS_HOMEPAGE"
+export const PRODUCT_VIEW_ID = "PRODUCT_VIEW_ID"
+export const GET_CATEGORY = "GET_CATEGORY"
+export const GET_BRAND = "GET_BRAND"
+export const CHANGE_PASS = "CHANGE_PASS"
+
